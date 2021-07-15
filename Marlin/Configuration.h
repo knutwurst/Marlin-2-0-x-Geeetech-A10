@@ -365,7 +365,7 @@
  * Specify whether the power supply is active HIGH or active LOW.
  */
 //#define PSU_CONTROL
-//#define PSU_NAME "Power Supply"
+#define PSU_NAME "Generic 24V"
 
 #if ENABLED(PSU_CONTROL)
   #define PSU_ACTIVE_STATE LOW      // Set 'LOW' for ATX, 'HIGH' for X-Box

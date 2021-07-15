@@ -25,6 +25,6 @@
  * Geeetech GT2560 V4.X Pins
  */
 
-#define BOARD_INFO_NAME "GT2560 4.x"
+#define BOARD_INFO_NAME "GT2560 4.0"
 
 #include "pins_GT2560_V3.h"
