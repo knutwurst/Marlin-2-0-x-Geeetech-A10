@@ -30,10 +30,10 @@
 
 /**
  * Verbose version identifier containing a unique identifier, such as the
- * vendor name, download location, GitHub account, etc.
+ * vendor name, download location, GitHub account, etc
  */
 #ifndef DETAILED_BUILD_VERSION
-  #define DETAILED_BUILD_VERSION SHORT_BUILD_VERSION
+  #define DETAILED_BUILD_VERSION "Knutwurst 1.0.1 based on Marlin 2.0.9.1"
 #endif
 
 /**
