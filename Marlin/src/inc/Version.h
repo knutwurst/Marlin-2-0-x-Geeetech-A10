@@ -33,7 +33,7 @@
  * vendor name, download location, GitHub account, etc
  */
 #ifndef DETAILED_BUILD_VERSION
-  #define DETAILED_BUILD_VERSION "Knutwurst 1.0.1 based on Marlin 2.0.9.1"
+  #define DETAILED_BUILD_VERSION "Knutwurst 1.0.2 based on Marlin 2.0.9.1"
 #endif
 
 /**
@@ -42,7 +42,7 @@
  * version was tagged.
  */
 #ifndef STRING_DISTRIBUTION_DATE
-  #define STRING_DISTRIBUTION_DATE "2021-07-18"
+  #define STRING_DISTRIBUTION_DATE "2021-07-19"
 #endif
 
 /**
